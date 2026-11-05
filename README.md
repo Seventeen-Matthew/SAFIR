@@ -3,4 +3,6 @@ This is a work related to the ship-plate recognition task, and it provides relev
 
 ## Dataset Download Link
 
-Baidu Netdisk: URL：     Pass Code：
+Baidu Netdisk: 
+- URL：https://pan.baidu.com/s/1Nkn4udSCBCTIXjQWA6tJQQ
+- Pass Code：umjp 
